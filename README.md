@@ -25,6 +25,8 @@ I'm Yousef, a developer and graphic designer based in Egypt. I build practical a
 
 Mobile and desktop application projects · State management · Local data storage · Authentication
 
+**Web project stack:** HTML, CSS, JavaScript and Supabase.
+
 ## 02 / Visual design
 
 I bring **4+ years of graphic design experience** across brand identities, logos, advertising and social media content. That background shapes the care I put into layout, typography, color and interface details.
@@ -43,3 +45,7 @@ I bring **4+ years of graphic design experience** across brand identities, logos
 I'm open to application-development opportunities that fit my experience, graphic design roles and freelance design projects.
 
 **[Portfolio](https://jozevvv.vercel.app/)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/yousefwageh/)**
+
+---
+
+Created by **Yousef Wageh**. Original profile graphics and writing © 2026 Yousef Wageh. Tool logos and third-party assets belong to their respective owners.
