@@ -1,4 +1,4 @@
-<h1 align="center">Web &amp; App Developer | Graphic Designer</h1>
+<h1 align="center">Software Developer &amp; Graphic Designer | Web, Mobile &amp; Visual Identity</h1>
 <p align="center">Useful tools. Clear interfaces. Thoughtful visuals.</p>
 <p align="center"><a href="https://jozevvv.vercel.app/">Portfolio ↗</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/yousefwageh/">LinkedIn ↗</a></p>
 
