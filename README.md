@@ -1,55 +1,41 @@
-<p align="center"><strong>Web & Application Developer · C++ · Graphic Designer</strong><br />
-<a href="https://jozevvv.vercel.app/">Portfolio ↗</a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/yousefwageh/">LinkedIn ↗</a></p>
+<h1 align="center">Developer & Designer</h1>
+<p align="center">Useful tools. Clear interfaces. Thoughtful visuals.</p>
+<p align="center"><a href="https://jozevvv.vercel.app/">Portfolio ↗</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/yousefwageh/">LinkedIn ↗</a></p>
 
-## 01 / Programming
+## Programming
 
-I build websites and applications with attention to how they work and how people use them. My university and client work spans **responsive Arabic websites, content dashboards, Flutter mobile and desktop applications, and C++ console projects**.
+I build websites and applications, from Arabic content dashboards to Flutter apps and C++ console projects. My work brings together practical development and a designer's eye for detail.
 
-### Web development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,supabase,react,ts,vite&amp;theme=dark" height="48" alt="HTML, CSS, JavaScript, Supabase, React, TypeScript and Vite" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,firebase,sqlite&amp;theme=dark" height="48" alt="Flutter, Dart, C++, Firebase and SQLite" />
+</p>
 
-**HTML · CSS · JavaScript · Supabase · React · TypeScript · Vite**
+**HTML · CSS · JavaScript · Supabase · React · TypeScript · Vite · Flutter · Dart · C++ · Firebase · SQLite**
 
-Responsive layouts · Right-to-left interfaces · Content management · Authentication · Database and media integration · Static deployment
+Responsive and RTL interfaces · Authentication · Content management · Local persistence · Calculation and invoice workflows
 
-### Application development
+Firebase Authentication · Cloud Firestore · Riverpod · Provider
 
-<p><img src="flutter.svg" height="46" alt="Flutter" /> &nbsp;
-<img src="dart.svg" height="46" alt="Dart" /> &nbsp;
-<img src="cplusplus.svg" height="46" alt="C++" /></p>
+## Graphic Design
 
-**Flutter · Dart · C++**
+**4+ years** creating brand identities, logos, advertising and social media design. I work with layout, typography and color to give each message a clear visual direction.
 
-Mobile and desktop interfaces · Personal inventory · Calculation and invoice workflows · Console input and data handling
-
-### Data & state
-
-<p><img src="firebase.svg" height="42" alt="Firebase" /> &nbsp;
-<img src="sqlite.svg" height="42" alt="SQLite" /></p>
-
-**Firebase Authentication · Cloud Firestore · SQLite · Riverpod · Provider · Supabase**
-
-Local persistence · Account sessions · State management · Repository and service layers
-
-## 02 / Visual design
-
-I bring **4+ years of graphic design experience** across brand identities, logos, advertising and social media content. That background informs my work with layout, typography, color and interface details.
-
-<p><img src="photoshop.svg" height="42" alt="Adobe Photoshop" /> &nbsp;
-<img src="illustrator.svg" height="42" alt="Adobe Illustrator" /> &nbsp;
-<img src="figma.svg" height="42" alt="Figma" /> &nbsp;
-<img src="capcut.svg" height="42" alt="CapCut" /></p>
+<p>
+<img src="photoshop.svg" height="48" alt="Adobe Photoshop" /> &nbsp;
+<img src="illustrator.svg" height="48" alt="Adobe Illustrator" /> &nbsp;
+<img src="figma.svg" height="48" alt="Figma" /> &nbsp;
+<img src="capcut.svg" height="48" alt="CapCut" />
+</p>
 
 **Photoshop · Illustrator · Figma · CapCut**
 
-[Explore my design portfolio ↗](https://jozevvv.vercel.app/)
-
-## 03 / Connect
-
-I'm open to web and application-development opportunities that fit my experience, graphic design roles and freelance design projects.
-
-**[Portfolio](https://jozevvv.vercel.app/)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/yousefwageh/)**
+[Explore my design work ↗](https://jozevvv.vercel.app/)
 
 ---
 
-Created by **Yousef Wageh**. Original profile graphics and writing © 2026 Yousef Wageh. Tool logos and third-party assets belong to their respective owners.
+Open to development opportunities that fit my project experience, design roles and freelance work.
+
+<sub>Created by Yousef Wageh · © 2026. Tool icons via Skill Icons and their respective owners.</sub>
